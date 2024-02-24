@@ -103,3 +103,11 @@
   <img src="/imagens/Ec2_14.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
+
+### Resultados
+
+&emsp;&emsp;Durante a atividade os seguintes resultados foram observados, Uma instância EC2 foi criada com sucesso na plataforma da AWS, utilizando as especificações desejadas, como tipo de instância, região, e configurações de segurança, foram geradas e configuradas chaves SSH para autenticação segura durante o acesso à instância EC2 e a ferramenta PuTTY foi utilizada para estabelecer uma conexão SSH bem-sucedida com a instância EC2.
+
+### Conclusão
+
+&emsp;&emsp;A atividade de criação de uma instância de máquina EC2 na AWS demonstrou a capacidade de provisionar e gerenciar recursos de computação em nuvem de forma eficiente e segura. O uso do SSH proporcionou uma conexão criptografada e confiável, garantindo a integridade dos dados durante as operações de administração remota. Em resumo, a atividade destacou a importância do SSH e do uso adequado de ferramentas como o PuTTY para acessar e gerenciar instâncias EC2 na AWS, fornecendo uma base sólida para operações futuras de computação em nuvem e administração de sistemas.
