@@ -7,3 +7,10 @@
 ### Objetivo
 
 &emsp;&emsp;O objetivo do acesso SSH no EC2 é proporcionar aos usuários uma maneira segura e confiável de se conectar remotamente às instâncias de computação na nuvem hospedadas no serviço EC2 da AWS. O SSH é uma ferramenta essencial para administradores de sistemas e desenvolvedores, permitindo o gerenciamento remoto de servidores sem comprometer a segurança dos dados transmitidos.
+
+### Materiais
+
+- AWS Academy
+- Instancia Ec2
+- PuTTY
+
