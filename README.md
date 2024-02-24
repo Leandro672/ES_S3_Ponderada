@@ -79,19 +79,19 @@
 &emsp;&emsp;Após, devemos abrir o PuTTY, colocar o ip da instância Ec2 criada e o par de chaves para acessar pelo SSH
 
 <div align="center">
-  <sub>Figura 8:</sub>
+  <sub>Figura 9:</sub>
   <img src="/imagens/Ec2_8.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
 
 <div align="center">
-  <sub>Figura 8:</sub>
+  <sub>Figura 10:</sub>
   <img src="/imagens/Ec2_10.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
 
 <div align="center">
-  <sub>Figura 8:</sub>
+  <sub>Figura 11:</sub>
   <img src="/imagens/Ec2_11.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
@@ -99,7 +99,7 @@
 &emsp;&emsp;Após seguir esses passos consiguiremos o acesso SSH no EC2
 
 <div align="center">
-  <sub>Figura 8:</sub>
+  <sub>Figura 12:</sub>
   <img src="/imagens/Ec2_14.png" width="100%">
   <sup>Fonte: Os autores (2024)</sup>
 </div>
